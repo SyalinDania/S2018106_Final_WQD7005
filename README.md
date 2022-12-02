@@ -18,3 +18,14 @@ Some data such as the sources, list of employees laid off and date of addition h
 Credits: Roger Lee
 
 # Data Cleaning #
+
+Our initial dataset has 1695 rows
+
+<img width="1076" alt="Screenshot 2022-12-03 at 12 38 47 AM" src="https://user-images.githubusercontent.com/37008778/205341692-05d52045-f178-4baa-af51-13bb6a43959e.png">
+
+For Midterm Purpose, I removed all the missing values and left with 834 rows
+
+<img width="1078" alt="Screenshot 2022-12-03 at 12 41 40 AM" src="https://user-images.githubusercontent.com/37008778/205342038-e9abc578-6e8a-45ea-9c44-03c98f360612.png">
+
+
+
