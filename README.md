@@ -29,3 +29,4 @@ For Midterm Purpose, I removed all the missing values and left with 834 rows
 
 
 
+
