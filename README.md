@@ -2,7 +2,7 @@
 
 Hi Dr.Teh, my name is Syalin Dania and My Group Project Title is "Tech Company Layoffs Prediction" and our datasets is from https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
-<mark> Columns : </mark> company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, funds_raised
+==Columns :== company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, funds_raised
 
 <mark> Target Variable :</mark>  total_laid_off
 
