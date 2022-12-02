@@ -4,10 +4,10 @@ Hi Dr.Teh, my name is Syalin Dania and My Group Project Title is "Tech Company L
 
 Tracking the tech layoffs reported on the following platforms:
 
-Bloomberg
-San Francisco Business Times
-TechCrunch
-The New York Times
+Bloomberg /n
+San Francisco Business Times /n
+TechCrunch /n
+The New York Times /n
 
 
 The data availability is from when COVID-19 was declared as a pandemic i.e. 11 March 2020 to present (2 December 2022). 
